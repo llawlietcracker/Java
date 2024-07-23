@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b5f2fd24-7966-4c5e-98ad-cc109dd3a8d9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Spring/relationships/relationships/src/main/java/com/example/relationships/controller/AlunoController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring/relationships/relationships/src/main/java/com/example/relationships/repository/AlunoRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring/relationships/relationships/src/main/java/com/example/relationships/model/Endereco.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
